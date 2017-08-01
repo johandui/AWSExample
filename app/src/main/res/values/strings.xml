@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AWSExample</string>
+    <string name="dep_name">Name</string>
+    <string name="dep_street">Street</string>
+    <string name="dep_endTime">End Time</string>
+    <string name="dep_startTime">Start Time</string>
+    <string name="catergory">Category</string>
+    <string name="desription">Description</string>
+    <string name="comments">Comments</string>
+    <string name="username">Username</string>
+    <string name="rating_count">Rating</string>
+    <string name="signup">Sign Up</string>
+    <string name="holidays">Holidays</string>
+    <string name="monday">MON</string>
+    <string name="tuesday">TUE</string>
+    <string name="wednesday">WED</string>
+    <string name="thursday">THU</string>
+    <string name="friday">FRI</string>
+    <string name="saturday">SAT</string>
+    <string name="sunday">SUN</string>
+</resources>
